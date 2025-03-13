@@ -11,3 +11,7 @@ UtilityTool is a simple Python tool for file management and log generation. This
 1. Clone this repository:
 ```bash
 git clone https://github.com/berardinellidaniele/UtilityTool.git
+```
+2. Execute the main file
+```python
+python main.py
